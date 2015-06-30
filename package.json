@@ -1,0 +1,4 @@
+{"dependencies":
+  {"socket.io" : "latest",
+  "node-static" : "latest"}
+}
