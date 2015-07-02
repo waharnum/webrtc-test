@@ -1,6 +1,7 @@
 {
   "name":"alan-webrtc-testing",
   "version":"0.0.1",
+  "main":"server.js",
   "dependencies":
   {"socket.io" : "*",
   "node-static" : "*"},
