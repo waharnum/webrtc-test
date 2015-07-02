@@ -1,4 +1,10 @@
-{"dependencies":
-  {"socket.io" : "latest",
-  "node-static" : "latest"}
+{
+  "name":"alan-webrtc-testing",
+  "version":"0.0.1",
+  "dependencies":
+  {"socket.io" : "*",
+  "node-static" : "*"},
+  "scripts": {
+    "start": "node server.js"
+  }
 }
